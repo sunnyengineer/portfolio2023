@@ -1,6 +1,1 @@
-Thanks for downloading this template!
-
-Template Name: MyPortfolio
-Template URL: https://bootstrapmade.com/myportfolio-bootstrap-portfolio-website-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Visit the website at sunnyengineer.github.io/portfolio2023/
